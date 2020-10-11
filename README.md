@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!-- Actual text -->
 
 I code for FUN in any language including   
-| JAVA | C/C++ | JAVASCRIPT | PYTHON |
- | :---: | :---: | :---: | :---: | 
+| JAVA | C/C++ | JAVASCRIPT | PYTHON | GOLANG |
+ | :---: | :---: | :---: | :---: | :---: | 
 
 You can find me on [![Twitter][1.2]][1]
 
