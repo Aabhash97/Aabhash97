@@ -57,5 +57,5 @@ You can find me on [![Twitter][1.2]][1]
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Abhashtiwari97
+[1]: https://twitter.com/aabhash_tiwari
 [2]: https://www.linkedin.com/in/aabhashtiwari/
